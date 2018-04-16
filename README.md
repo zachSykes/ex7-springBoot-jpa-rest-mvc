@@ -65,3 +65,5 @@ http://localhost:8888/h2-console
 + right click on src/main/resources/templates , click New, select Web -> Html File -> Html5
 + then start sprinkling thymeleaf tags into the html
 + then pass data from controller to UI's view via model.addAttribute method
+
+TEST
