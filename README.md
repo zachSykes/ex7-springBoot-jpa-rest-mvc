@@ -66,4 +66,3 @@ http://localhost:8888/h2-console
 + then start sprinkling thymeleaf tags into the html
 + then pass data from controller to UI's view via model.addAttribute method
 
-TEST
